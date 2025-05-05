@@ -1,5 +1,5 @@
 # Creating Virtual RAM Using Termux
-Since our lenovo tb-x306x is rooted & don't have any twrp available on internet (as of now) & have only 2GB Ram so we have to increase 
+Since our lenovo tb-x306x is rooted & ~~don't have any twrp available on internet (as of now)~~ have [TWRP-unofficial](https://xdaforums.com/t/closed-discontinued-tb-x306x-android-10-unofficial-twrp-3-7-lenovo-tab-m10-hd-2nd-gen.4606369/) & have only 2GB Ram so we have to increase 
 it by creating virtual ram so we can increase performance & decrease uneccessary lags in it
 
 > If you don't know how to root lenovo tb-x306x, I have made process for that check it out [here](https://github.com/VedantKawade3/Rooting-of-lenovo_TB-X306X)!
